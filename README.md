@@ -1,5 +1,5 @@
 # gotajob
-A quick tool to identify whether we still have our jobs during a restructure.
+I wrote a quick tool to identify whether we still have our jobs during a restructure.
 
 Open the [Demo here](http://rawgit.com/andybateman/gotajob/master/GotAJob.html)
 
